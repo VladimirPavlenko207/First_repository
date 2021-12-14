@@ -42,7 +42,7 @@ body{
   --btn-bg: #8DD83D;
   --nav-bg: #373A3C;
 
-  --card-width-normal:320px
+  --card-width-normal:310px
 }
 .underline::after{
   content: '';
@@ -350,7 +350,7 @@ label:hover{
   width: 1100px;
   margin: 0 auto;
   margin-top: 43px;
-  padding-bottom: 160px;
+  padding: 0 5px 160px;
 }
 .highlights-cards .card:nth-child(2) > img,
 .highlights-cards .card:nth-child(3) > img{
